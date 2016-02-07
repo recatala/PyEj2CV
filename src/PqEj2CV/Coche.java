@@ -4,10 +4,6 @@
  */
 package PqEj2CV;
 
-/**
- *
- * @author pablo
- */
 public class Coche 
 {
     String modelo;
